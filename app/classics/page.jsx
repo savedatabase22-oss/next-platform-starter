@@ -21,7 +21,7 @@ Deploy this site to your Netlify account, [enable the forms feature in the UI](h
 export default async function Page() {
     return (
         <>
-            <h1 className="mb-8">Netlify Classics</h1>
+            <h1 className="mb-8">Flux</h1>
             <Markdown content={explainer} className="mb-12" />
             <div className="flex justify-center">
                 <FeedbackForm />
